@@ -5,3 +5,7 @@ function adding(a, b) {
     return a + b;
 }
 ```
+
+- [ ] Find a dog you like
+- [ ] Find out the price
+- [ ] Buy the dog
